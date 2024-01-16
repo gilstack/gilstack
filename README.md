@@ -10,14 +10,32 @@
 
 ## Skills
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Typescript](https://shields.io/badge/TypeScript-333333?logo=TypeScript&logoColor=3178C6)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![PHP](https://img.shields.io/badge/php-333333?style=flat&logo=php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Typescript](https://shields.io/badge/TypeScript-333333?logo=TypeScript&logoColor=3178C6)
+
+**Frameworks**
+
+![Laravel](https://img.shields.io/badge/laravel-333333?style=flat&logo=laravel)
+![jQuery](https://img.shields.io/badge/jquery-333333?style=flat&logo=jquery)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next JS](https://img.shields.io/badge/Next-333333?style=flat&logo=next.js)
+![NodeJS](https://img.shields.io/badge/node.js-333333?style=flat&logo=node.js)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+
+**Test Libs**
+
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![cypress](https://img.shields.io/badge/-cypress-333333?style=flat&logo=cypress)
+
+**Databases**
+
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Postgres](https://img.shields.io/badge/postgres-333333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-333333?style=flat&logo=redis)
 
 **Utilidades**
 
@@ -30,9 +48,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
-**Ferramentas de desenvolvimento**
+**Ferramentas**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
@@ -42,12 +59,12 @@
 
 <br/>
 
-<a href="https://github.com/gilstack" title="Perfil do Gilmar">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilstack&theme=dark&hide_border=false" alt="Github Stats"  />
-</a>
+![gilstack's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gilstack&theme=tokyonight&hide_border=false)
+
+<br/>
 
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-gilstack-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/glmrdev/)
-[![Gmail Badge](https://img.shields.io/badge/-gilmar.stack@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:gilmar.stack@gmail.com)
+[![Instagram](https://img.shields.io/badge/-glmrdev-red?style=flat-square&logo=Instagram&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.instagram.com/glmrdev/)
 [![GitHub](https://img.shields.io/github/followers/gilstack?label=follow&style=social)](https://github.com/gilstack)
