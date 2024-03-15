@@ -2,11 +2,11 @@
 
 ## Sobre
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Explorando e desenvolvendo soluções de software.
 - 🎓 Cursando Ciências da Computação na UVA.
 - 👨🏻‍💻 Certificado em Desenvolvimento Web pelo Instituto Nu.
 - 💼 Trabalhando como Full Stack na We Build Tech.
-- 🌱 Aprendendo mais sobre novas tecnologias e frameworks JS/TS.
+- 🌱 Especializado em tecnologias do ecossistema PHP e JS/TS.
 
 ## Skills
 
