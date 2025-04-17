@@ -3,8 +3,6 @@
 ## Sobre
 
 - 🤔 Explorando e desenvolvendo soluções de software.
-- 🎓 Cursando Ciências da Computação na UVA.
-- 👨🏻‍💻 Certificado em Desenvolvimento Web pelo Instituto Nu.
 - 🌱 Especializado em tecnologias do ecossistema PHP e JS/TS.
 
 ## Skills
