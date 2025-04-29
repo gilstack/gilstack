@@ -10,7 +10,7 @@
 
 -----
 
-![profile count](https://komarev.com/ghpvc/?username=avinash201199&color=red)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=gilstack&color=red)&nbsp;
 [![GitHub avinash201199](https://img.shields.io/github/followers/gilstack?label=follow&style=social)](https://github.com/gilstack)&nbsp;
 [![Instagram](https://img.shields.io/badge/-glmrdev-red?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/glmrdev)](https://www.instagram.com/glmrdev/)
 [![Linkedin](https://img.shields.io/badge/-gilstack-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/glmrdev)](https://www.linkedin.com/in/glmrdev/)
