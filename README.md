@@ -58,7 +58,3 @@ In short, I thrive on new tech, cool projects, and a great cup of coffee. â˜•ðŸš
 
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
-
-<br />
-
-![gilstack's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gilstack&theme=tokyonight&hide_border=false)
