@@ -34,9 +34,16 @@ In short, I thrive on new tech, cool projects, and a great cup of coffee. â˜•ðŸš
 <br />
 
 ![Laravel](https://img.shields.io/badge/Laravel-333333?style=flat&logo=laravel)
+![Symfony](https://img.shields.io/badge/Symfony-333333?style=flat&logo=Symfony)
+![Fastify](https://img.shields.io/badge/Fastify-333333?style=flat&logo=Fastify)
 ![NestJS](https://img.shields.io/badge/Nestjs-333333?style=flat&logo=nestjs)
 ![Next JS](https://img.shields.io/badge/Next-333333?style=flat&logo=next.js)
+![Nuxt](https://img.shields.io/badge/Nuxt-333333?style=flat&logo=nuxt.js)
+<br />
+
+![React Native](https://img.shields.io/badge/Flutter-333333?style=flat&logo=flutter)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/Ionic-333333?style=flat&logo=ionic)
 <br />
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
