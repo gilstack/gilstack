@@ -25,36 +25,33 @@
   
 In short, I thrive on new tech, cool projects, and a great cup of coffee. ☕🚀
 
-
 ### Skills
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![PHP](https://img.shields.io/badge/php-333333?style=flat&logo=php)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![C#](https://img.shields.io/badge/C-333333?style=flat&logo=c)
+![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php)
 ![Typescript](https://shields.io/badge/TypeScript-333333?logo=TypeScript&logoColor=3178C6)
+![NodeJS](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
 <br />
 
-![Laravel](https://img.shields.io/badge/laravel-333333?style=flat&logo=laravel)
+![Laravel](https://img.shields.io/badge/Laravel-333333?style=flat&logo=laravel)
+![NestJS](https://img.shields.io/badge/Nestjs-333333?style=flat&logo=nestjs)
 ![Next JS](https://img.shields.io/badge/Next-333333?style=flat&logo=next.js)
-![NodeJS](https://img.shields.io/badge/node.js-333333?style=flat&logo=node.js)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 <br />
 
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![cypress](https://img.shields.io/badge/-cypress-333333?style=flat&logo=cypress)
-<br />
-
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Postgres](https://img.shields.io/badge/postgres-333333?style=flat&logo=postgresql)
+![Postgres](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 <br />
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![PayloadCMS](https://img.shields.io/badge/PayloadCMS-333333?style=flat&logo=PayloadCMS)
+![Strapi](https://img.shields.io/badge/Strapi-333333?style=flat&logo=Strapi)
+![WordPress](https://img.shields.io/badge/WordPress-333333?style=flat&logo=WordPress)
+![Drupal](https://img.shields.io/badge/Drupal-333333?style=flat&logo=Drupal)
 <br />
 
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
